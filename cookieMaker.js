@@ -1,3 +1,4 @@
+
 const nullcheck = document.getElementById('GUI')
 if (nullcheck === undefined || nullcheck === null) { // checks if Radiant is already open
 
@@ -186,4 +187,4 @@ setInterval(function(){if(document.getElementById('coin-amount').innerHTML!==loc
     if(typeof localStorage.coins!=="undefined"){
         document.getElementById('coin-amount').innerHTML=localStorage.coins
     }
-}},1000)})
+}},1000)
