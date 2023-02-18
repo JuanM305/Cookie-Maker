@@ -1,0 +1,1 @@
+To use this go into the console and paste it and press enter. Make sure you paste it before you enter a lesson, you can also use it as a bookmarlket by saving a website and editing the link to the code but at the start of the code put "javascript:"
